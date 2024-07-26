@@ -1,7 +1,7 @@
 
 A zsh config script which is good for power users and has alot of alisases
 
-WHatt you need
+What you need
 
 neofetch
 DistroTube's color scripts
